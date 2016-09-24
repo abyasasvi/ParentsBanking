@@ -22,3 +22,17 @@ select,
 textarea {
     max-width: 280px;
 }
+
+/*Custom styles for the project*/
+.container{
+    max-width: 100%;
+}
+.body-content{
+
+}
+#myCarousel{
+    margin: 0px -15px;
+}
+.carousel-inner > .item > img{
+    width: 100%;
+}

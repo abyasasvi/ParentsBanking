@@ -36,3 +36,20 @@ textarea {
 .carousel-inner > .item > img{
     width: 100%;
 }
+.art-str-left .row{
+    margin: 10px 0px 10px 0px;
+    border-bottom: solid 1px rgba(153, 153, 153, 0.32);
+    padding: 10px 0px;
+}
+.art-str-left .row .col-md-4{
+    margin: 0px -15px;
+}
+.art-str-left img{
+    width: 100%;
+}
+.art-str-left >.col-md-8{
+    border-right: solid 1px rgba(153, 153, 153, 0.32);
+}
+.art-str-right img{
+    margin-bottom: 20px;
+}
